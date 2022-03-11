@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @XiangLun0713
-- 👀 I’m interested in developing apps / software
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Choo Xiang Lun!
+- 👀 I’m interested in developing mobile applications, games and websites.
+- 🌱 I’m currently learning Java, HTML, CSS, JS, and Android development.
+- 💞️ I’m looking to collaborate on side projects!
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/xianglun) :D
 
 <!---
 XiangLun0713/XiangLun0713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
