@@ -34,7 +34,6 @@ Check out my little corner of the internet 👉 [My Personal Website](https://xi
 - [Email](mailto:xlchoo25@gmail.com)
 
 ## 🎉 Fun Facts
-- I am using a Nokia phone.
 - I enjoy Bullet Journaling `#Bujo`
 
 ## 📊 GitHub Stats
