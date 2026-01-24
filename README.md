@@ -1,12 +1,15 @@
 # Hi there! 👋 I'm Choo Xiang Lun
 
 ## 🚀 About Me
-I'm a passionate frontend engineer based in Malaysia. Currently wrapping up my final year in software engineering at Universiti Malaya. I enjoy writing requirements and managing projects too! When I'm not coding, I watch anime and play badminton 😊
+
+I'm a passionate frontend engineer based in Malaysia with a degree in Software Engineering from Universiti Malaya. When I'm not coding, I play guitar and workout at the gym 😊
 
 ## 🌐 Personal Website
+
 Check out my little corner of the internet 👉 [My Personal Website](https://xianglun.vercel.app/)
 
 ## 🛠 Tech Stack
+
 - **Languages:**  
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
@@ -21,27 +24,21 @@ Check out my little corner of the internet 👉 [My Personal Website](https://xi
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-346ac1?style=flat-square&logo=android%20studio&logoColor=white)
   ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-  
 - **Backend:**  
   ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 
 - **Project Management:**  
   ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 
-
 ## 🔗 Connect with me
+
 - [LinkedIn](https://www.linkedin.com/in/xianglun/)
 - [Email](mailto:xlchoo25@gmail.com)
 
 ## 🎉 Fun Facts
-- I enjoy Bullet Journaling `#Bujo`
 
-## 📊 GitHub Stats
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+- I speak Japanese! 🇯🇵
 
 ---
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a friendly chat! 😊
-
